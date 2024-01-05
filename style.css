@@ -188,7 +188,7 @@ button:hover {
 
 .detail-open {
   display: flex;
-  background-image: linear-gradient(skyblue, white);
+  background-image: linear-gradient(black, white);
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
